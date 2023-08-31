@@ -1,0 +1,38 @@
+.main{
+   padding: 0 20% 0 20%;
+}
+.images{
+    /* width:280px;
+    height:189px; */
+    display:flex;
+    margin: 50px;
+    border: 0.1px solid black;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 1px 1px 1px solid red;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+.images2{
+    width:280px;
+    height:189px;
+}
+.duo1{
+    float:left;
+}
+.duo2{
+    float:left; 
+   clear: left;
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-items: start;
+}
+.data1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
